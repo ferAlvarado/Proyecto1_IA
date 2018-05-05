@@ -1,8 +1,0 @@
-Instalacion de tensorflow,keras y librerias dependientes:
-
-- Descargar python 3.6.2
-- pip3.6 install tensorflow
-- pip3.6 install keras
-- pip3.6 install pandas
-- pip3.6 install seaborn
-- pip3.6 install sklearn
